@@ -1,0 +1,105 @@
+VendorID,VendorName,AccountNumber,CreditRating,ActiveFlag
+1492,Australia Bike Retailer,AUSTRALI0001,1,1
+1494,Allenson Cycles,ALLENSON0001,2,1
+1496,Advanced Bicycles,ADVANCED0001,1,1
+1498,"Trikes, Inc.",TRIKES0001,2,1
+1500,Morgan Bike Accessories,MORGANB0001,1,1
+1502,Cycling Master,CYCLING0001,1,1
+1504,Chicago Rent-All,CHICAGO0002,2,1
+1506,Greenwood Athletic Company,GREENWOO0001,1,1
+1508,"Compete Enterprises, Inc",COMPETE0001,1,1
+1510,International,INTERNAT0001,1,1
+1512,Light Speed,LIGHTSP0001,1,1
+1514,Training Systems,TRAINING0001,1,1
+1516,Gardner Touring Cycles,GARDNER0001,1,0
+1518,International Trek Center,INTERNAT0004,1,1
+1520,G & K Bicycle Corp.,G&KBI0001,1,1
+1522,First National Sport Co.,FIRSTNA0001,1,1
+1524,Recreation Place,RECREATI0001,4,1
+1526,International Bicycles,INTERNAT0002,1,1
+1528,Image Makers Bike Center,IMAGEMA0001,1,1
+1530,Comfort Road Bicycles,COMFORT0001,1,1
+1532,Knopfler Cycles,KNOPFLER0001,1,1
+1534,Ready Rentals,READYRE0001,1,1
+1536,Cruger Bike Company,CRUGERB0001,1,1
+1538,Vista Road Bikes,VISTARO0001,3,1
+1540,Bergeron Off-Roads,BERGERON0001,1,1
+1542,Hill's Bicycle Service,HILLSBI0001,1,1
+1544,Circuit Cycles,CIRCUIT0001,1,0
+1546,Green Lake Bike Company,GREENLA0001,1,1
+1548,Consumer Cycles,CONSUMER0001,3,1
+1550,Merit Bikes,MERITBI0001,5,1
+1552,Sports House,SPORTSH0001,1,1
+1554,WestAmerica Bicycle Co.,WESTAMER0001,1,1
+1556,West Junction Cycles,WESTJUN0001,1,1
+1558,Marsh,MARSH0001,1,1
+1560,Capital Road Cycles,CAPITAL0001,1,1
+1562,Norstan Bike Hut,NORSTAN0001,1,1
+1564,Illinois Trek & Clothing,ILLINOIS0001,1,1
+1566,Burnett Road Warriors,BURNETT0001,1,1
+1568,"Custom Frames, Inc.",CUSTOMF0001,2,1
+1570,First Rate Bicycles,FIRSTRA0001,1,1
+1572,National Bike Association,NATIONAL0001,1,1
+1574,Jeff's Sporting Goods,JEFFSSP0001,1,1
+1576,Superior Bicycles,SUPERIOR0001,1,1
+1578,"Vision Cycles, Inc.",VISIONC0001,1,1
+1580,"Litware, Inc.",LITWARE0001,1,1
+1582,Inner City Bikes,INNERCI0001,3,1
+1584,Trey Research,TREYRE0001,3,1
+1586,Mitchell Sports,MITCHELL0001,1,1
+1588,Signature Cycles,SIGNATUR0001,2,1
+1590,SUPERSALES INC.,SUPERSAL0001,1,1
+1592,Lindell,LINDELL0001,1,1
+1594,Fitness Association,FITNESS0001,1,1
+1596,A. Datum Corporation,ADATUM0001,1,1
+1598,Continental Pro Cycles,CONTINEN0001,3,1
+1600,Federal Sport,FEDERAL0001,3,1
+1602,Beaumont Bikes,BEAUMONT0001,1,1
+1604,Bike Satellite Inc.,BIKESAT0001,1,1
+1606,Northwind Traders,NORTHW0001,1,1
+1608,Sport Playground,SPORTPL0001,1,1
+1610,Hybrid Bicycle Center,HYBRIDB0001,1,1
+1612,"Midwest Sport, Inc.",MIDWEST0001,1,1
+1614,"Reliance Fitness, Inc.",RELIANCE0001,2,0
+1616,Aurora Bike Center,AURORAB0001,1,1
+1618,Metro Sport Equipment,METROSP0001,1,1
+1620,Lakewood Bicycle,LAKEWOOD0001,1,1
+1622,Speed Corporation,SPEEDCO0001,1,1
+1624,Competition Bike Training Systems,COMPETIT0001,1,1
+1626,Hill Bicycle Center,HILLBIC0001,1,1
+1628,Bicycle Specialists,BICYCLE0001,1,1
+1630,Indiana Bicycle Center,INDIANA0001,1,1
+1632,Sport Fan Co.,SPORTFA0001,1,1
+1634,GMA Ski & Bike,GMASKI0001,1,1
+1636,Integrated Sport Products,INTEGRAT0001,1,1
+1638,Inline Accessories,INLINEA0001,1,1
+1640,Legend Cycles,LEGENDC0001,1,1
+1642,Electronic Bike Co.,ELECTRON0001,1,1
+1644,International Sport Assoc.,INTERNAT0003,1,1
+1646,Electronic Bike Repair & Supplies,ELECTRON0002,1,1
+1648,Wide World Importers,WIDEWOR0001,2,1
+1650,American Bicycles and Wheels,AMERICAN0001,1,1
+1652,Victory Bikes,VICTORY0001,5,1
+1654,American Bikes,AMERICAN0002,1,1
+1656,Mountain Works,MOUNTAIN0001,1,1
+1658,Crowley Sport,CROWLEY0001,1,1
+1660,Magic Cycles,MAGICCY0001,1,1
+1662,Northern Bike Travel,NORTHERN0001,3,1
+1664,Anderson's Custom Bikes,ANDERSON0001,1,1
+1666,Leaf River Terrain,LEAFRIV0001,1,1
+1668,Touring Equipment Center,TOURING0001,1,1
+1670,Holiday Skate & Cycle,HOLIDAY0001,1,1
+1672,Expert Bike Co,EXPERTB0001,1,1
+1674,Varsity Sport Co.,VARSITY0001,1,1
+1676,Team Athletic Co.,TEAMATH0001,1,1
+1678,"Proseware, Inc.",PROSE0001,4,0
+1680,Jackson Authority,JACKSON0001,1,1
+1682,"Premier Sport, Inc.",PREMIER0001,1,1
+1684,Professional Athletic Consultants,PROFESSI0001,1,1
+1686,Pro Sport Industries,PROSPOR0001,1,1
+1688,Wood Fitness,WOODFIT0001,1,1
+1690,Bloomington Multisport,BLOOMING0001,1,1
+1692,Carlson Specialties,CARLSON0001,2,1
+1694,"Compete, Inc.",COMPETE0002,1,1
+1696,Chicago City Saddles,CHICAGO0001,1,1
+1698,Business Equipment Center,BUSINESS0001,2,1

@@ -1,0 +1,38 @@
+SubCategoryID,CategoryID,SubCategoryName
+1,1,Mountain Bikes
+2,1,Road Bikes
+3,1,Touring Bikes
+4,2,Handlebars
+5,2,Bottom Brackets
+6,2,Brakes
+7,2,Chains
+8,2,Cranksets
+9,2,Derailleurs
+10,2,Forks
+11,2,Headsets
+12,2,Mountain Frames
+13,2,Pedals
+14,2,Road Frames
+15,2,Saddles
+16,2,Touring Frames
+17,2,Wheels
+18,3,Bib-Shorts
+19,3,Caps
+20,3,Gloves
+21,3,Jerseys
+22,3,Shorts
+23,3,Socks
+24,3,Tights
+25,3,Vests
+26,4,Bike Racks
+27,4,Bike Stands
+28,4,Bottles and Cages
+29,4,Cleaners
+30,4,Fenders
+31,4,Helmets
+32,4,Hydration Packs
+33,4,Lights
+34,4,Locks
+35,4,Panniers
+36,4,Pumps
+37,4,Tires and Tubes
