@@ -14,8 +14,6 @@ CREATE CONSTRAINT ON (e:Employee) ASSERT e.employeeId IS UNIQUE;
 CREATE CONSTRAINT ON (v:Vendor) ASSERT v.vendorId IS UNIQUE;
 CREATE CONSTRAINT ON (c:Customer) ASSERT c.customerId IS UNIQUE;
 
-schema await
-
 // Create products
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:data/products.csv" as row
