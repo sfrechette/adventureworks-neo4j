@@ -5,7 +5,6 @@ CREATE INDEX ON :Vendor(vendorName);
 CREATE INDEX ON :Product(productName);
 
 // Create constraints
-
 CREATE CONSTRAINT ON (o:Order) ASSERT o.orderId IS UNIQUE;
 CREATE CONSTRAINT ON (p:Product) ASSERT p.productId IS UNIQUE;
 CREATE CONSTRAINT ON (c:Category) ASSERT c.categoryId IS UNIQUE;
