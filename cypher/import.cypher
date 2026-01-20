@@ -1,9 +1,8 @@
 // Create indexes for faster lookup
-CREATE INDEX ON :Category(categoryName);
-CREATE INDEX Category_categoryName FOR (c:Category) ON (c.categoryName)
-CREATE INDEX SubCategory_subCategoryName FOR (s:SubCategory) ON (s.subCategoryName)
-CREATE INDEX Vendor_vendorName FOR (v:Vendor) ON (v.vendorName)
-CREATE INDEX Product_productName FOR (p:Product) ON (p.productName)
+CREATE INDEX Category_categoryName FOR (c:Category) ON (c.categoryName);
+CREATE INDEX SubCategory_subCategoryName FOR (s:SubCategory) ON (s.subCategoryName);
+CREATE INDEX Vendor_vendorName FOR (v:Vendor) ON (v.vendorName);
+CREATE INDEX Product_productName FOR (p:Product) ON (p.productName);
 
 // Create constraints
 CREATE CONSTRAINT Order_orderId IF NOT EXISTS FOR (o:Order) REQUIRE o.orderId IS NODE KEY;
@@ -27,7 +26,7 @@ CALL {
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/sfrechette/adventureworks-neo4j/master/data/vendors.csv" as row
 CALL {
 	WITH row
-	CREATE (:Vendor {vendorName: row.VendorName, vendorNumber: row.AccountNumber, vendorId: row.VendorID, creditRating: row.CreditRating, activeFlag: row.ActiveFlag});
+	CREATE (:Vendor {vendorName: row.VendorName, vendorNumber: row.AccountNumber, vendorId: row.VendorID, creditRating: row.CreditRating, activeFlag: row.ActiveFlag})
 } IN TRANSACTIONS OF 1000 ROWS
 
 // Create employees
